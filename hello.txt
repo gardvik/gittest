@@ -1,2 +1,3 @@
 hie igjen git!
 hello
+dette skriver jeg på feature-branchen
